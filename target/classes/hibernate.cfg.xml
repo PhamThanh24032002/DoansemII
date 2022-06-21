@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Coniguration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+	<session-factory>
+		<property name="connection.url">jdbc:sqlserver://localhost:1433;database=project_SH_SEMIII</property>
+		<property name="connection.username">sa</property>
+		<property name="connection.password">123456</property>
+		<property name="connection.driver_class">com.microsoft.sqlserver.jdbc.SQLServerDriver</property>
+		<property name="connection.pool_size">100</property>
+		<mapping class="com.entity.Admin" />
+		<mapping class="com.entity.Blog" />
+		<mapping class="com.entity.Carts" />
+		<mapping class="com.entity.Category" />
+		<mapping class="com.entity.Colors" />
+		<mapping class="com.entity.Contact" />
+		<mapping class="com.entity.Customers" />
+		<mapping class="com.entity.Delivery_method" />
+		<mapping class="com.entity.Favorites" />
+		<mapping class="com.entity.Order_detail" />
+		<mapping class="com.entity.Orders" />
+		<mapping class="com.entity.Payment_method" />
+		<mapping class="com.entity.Product_detail" />
+		<mapping class="com.entity.Products" />
+		<mapping class="com.entity.Sizes" />
+		<mapping class="com.entity.Trademarks" />
+	</session-factory>
+</hibernate-configuration>
