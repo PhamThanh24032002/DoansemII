@@ -66,13 +66,13 @@
 				</div>
 				<div class="menu-title">Payment</div>
 		</a></li>
-		<li><a href="#">
+		<li><a href="${rootpath}slider">
 				<div class="parent-icon">
 					<i class='bx bxs-face'></i>
 				</div>
 				<div class="menu-title">Slides</div>
 		</a></li>
-		<li><a href="#">
+		<li><a href="${rootpath}banner">
 				<div class="parent-icon">
 					<i class='bx bxs-face'></i>
 				</div>

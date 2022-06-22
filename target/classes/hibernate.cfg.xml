@@ -24,6 +24,8 @@
 		<mapping class="com.entity.Product_detail" />
 		<mapping class="com.entity.Products" />
 		<mapping class="com.entity.Sizes" />
+		<mapping class="com.entity.Slider" />
+		<mapping class="com.entity.Banner" />
 		<mapping class="com.entity.Trademarks" />
 	</session-factory>
 </hibernate-configuration>
