@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/controller/admin/BannerController.java=UTF-8
+encoding//src/main/java/com/controller/admin/BlogAdminController.java=UTF-8
+encoding//src/main/java/com/controller/admin/CategoryController.java=UTF-8
+encoding//src/main/java/com/controller/admin/ColorController.java=UTF-8
+encoding//src/main/java/com/controller/admin/ProductController.java=UTF-8
+encoding//src/main/java/com/controller/admin/SliderController.java=UTF-8
+encoding//src/main/java/com/controller/client/HomeController.java=UTF-8
+encoding//src/main/java/com/implement/CategoryImp.java=UTF-8
+encoding//src/main/java/com/implement/ProductImp.java=UTF-8
